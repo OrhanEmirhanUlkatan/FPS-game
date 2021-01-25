@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deneme", "Deneme.csproj", "{2B09179C-D4B6-1E2A-F8BB-EEAC843333A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deneme.Plugins", "Deneme.Plugins.csproj", "{56FEB59D-62FD-3EB6-C08F-DAB35B4F0F6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deneme.Editor.Plugins", "Deneme.Editor.Plugins.csproj", "{5BF34058-6BEA-32F2-F5D9-1A6B5E6CF225}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B09179C-D4B6-1E2A-F8BB-EEAC843333A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B09179C-D4B6-1E2A-F8BB-EEAC843333A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B09179C-D4B6-1E2A-F8BB-EEAC843333A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B09179C-D4B6-1E2A-F8BB-EEAC843333A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56FEB59D-62FD-3EB6-C08F-DAB35B4F0F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FEB59D-62FD-3EB6-C08F-DAB35B4F0F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FEB59D-62FD-3EB6-C08F-DAB35B4F0F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FEB59D-62FD-3EB6-C08F-DAB35B4F0F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BF34058-6BEA-32F2-F5D9-1A6B5E6CF225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF34058-6BEA-32F2-F5D9-1A6B5E6CF225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BF34058-6BEA-32F2-F5D9-1A6B5E6CF225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BF34058-6BEA-32F2-F5D9-1A6B5E6CF225}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
